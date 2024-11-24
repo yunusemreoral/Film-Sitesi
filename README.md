@@ -10,7 +10,7 @@
 <li>CSS3</li>
 <li>JS</li>
 <li>Dark-Light Mode</li>
-<li>Responsive Design</li>
+
 
 # Ekran Görüntüsü 🎥
 
