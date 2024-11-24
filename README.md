@@ -13,6 +13,7 @@
 <li>Responsive Design</li>
 
 Ekran Görüntüsü 🎥
+
 <img src="film-sitesi.gif" width="auto"> 
 
 # İletişim 📩
