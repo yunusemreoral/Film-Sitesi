@@ -12,7 +12,7 @@
 <li>Dark-Light Mode</li>
 <li>Responsive Design</li>
 
-Ekran Görüntüsü 🎥
+#Ekran Görüntüsü 🎥
 
 <img src="film-sitesi.gif" width="auto"> 
 
